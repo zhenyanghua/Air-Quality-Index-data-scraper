@@ -1,3 +1,10 @@
+Air Quality Index data Scraper
+
+Author: Zhenyang Hua
+
+---------------------------------------
+V1.0
+
 Python version: 2.6+
 required module: BeautifulSoup4, lxml, libxml2
 
